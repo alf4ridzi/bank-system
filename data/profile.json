@@ -1,0 +1,49 @@
+{
+    "alfa2@gmail.com": {
+        "block": false,
+        "password": "01cfcd4f6b8770febfb40cb906715822",
+        "pin": 1111,
+        "rekening_number": 1985280313,
+        "saldo": 10.0,
+        "transaction_history": [
+            {
+                "ID": 637749011599147987,
+                "from_rekening": "1613643094",
+                "mount": 10.0,
+                "note": "",
+                "status": "SUCCESS",
+                "timestamp": "2024-02-26 15:46:41",
+                "tipe": "RECIEVE"
+            }
+        ],
+        "username": "alfa",
+        "withdraw": []
+    },
+    "alfaridzi@gmail.com": {
+        "block": false,
+        "password": "827ccb0eea8a706c4c34a16891f84e7b",
+        "pin": 1111,
+        "rekening_number": 1613643094,
+        "saldo": 79.75,
+        "transaction_history": [
+            {
+                "ID": 637749011599147987,
+                "mount": 10.0,
+                "note": "",
+                "status": "SUCCESS",
+                "timestamp": "2024-02-26 15:46:41",
+                "tipe": "SEND",
+                "to_rekening": "1985280313"
+            }
+        ],
+        "username": "alfa",
+        "withdraw": [
+            {
+                "bank_name": "DANA",
+                "number": 85834345454,
+                "wallet": "wallet",
+                "wallet_name": "alfa"
+            }
+        ]
+    }
+}
